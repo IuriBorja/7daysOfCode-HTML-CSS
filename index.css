@@ -4,6 +4,7 @@
 
 @import url("./reset.css");
 @import url("./style/header.css");
+@import url("./style/section-1.css");
 
 
 :root {
@@ -11,7 +12,7 @@
     --cinza: #667085;
     --vermelho: #8E2424;
     --cinza-texto: #3A404E;
-
+    --cinza-texto-2: #101828;
 
     --fonte-principal: 'Inter';
 }
