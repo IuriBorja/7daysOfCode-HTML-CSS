@@ -1,0 +1,45 @@
+
+.numbers-section {
+    background-color: var(--base-white);
+    height: 46.3vh;
+    display: flex;
+    align-items: center;
+    gap: 12rem;
+    padding: 0rem 10rem;
+}
+
+
+.number-content {
+    margin-bottom: 10rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+
+.title-numbers {
+    color: var(--vermelho);
+    font-size: 60px;
+    font-family: var(--fonte-principal);
+    font-weight: 600;
+}
+
+.sub-title-number {
+    color: var(--cinza-texto-2);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+
+
+.paragrah-numbers    {
+    color: var(--cinza);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
