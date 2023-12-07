@@ -26,7 +26,7 @@
 
 .sub-title-number {
     color: var(--cinza-texto-2);
-    font-family: Inter;
+    font-family: var(--fonte-principal);
     font-size: 18px;
     font-style: normal;
     font-weight: 500;
@@ -37,7 +37,7 @@
 
 .paragrah-numbers    {
     color: var(--cinza);
-    font-family: Inter;
+    font-family: var(--fonte-principal) ;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;

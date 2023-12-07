@@ -6,6 +6,7 @@
 @import url("./style/header.css");
 @import url("./style/section-1.css");
 @import url("./style/numbers-section.css");
+@import url("./style/looking-talents.css");
 
 
 :root {
@@ -14,6 +15,7 @@
     --vermelho: #8E2424;
     --cinza-texto: #3A404E;
     --cinza-texto-2: #101828;
+    --fundo-rgba: rgba(142, 36, 36, 0.05);
 
     --fonte-principal: 'Inter';
 }
