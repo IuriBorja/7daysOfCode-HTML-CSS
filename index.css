@@ -8,6 +8,7 @@
 @import url("./style/numbers-section.css");
 @import url("./style/looking-talents.css");
 @import url("./style/reviews-section.css");
+@import url("./style/footer.css");
 
 
 :root {
@@ -30,3 +31,49 @@ a {
 }
 
 
+
+
+@media screen and (max-width: 1550px) {
+    
+
+    /* HEADER */
+
+    .header-content {
+        background-color: #101828;
+        justify-content: center;
+    }
+
+    /* NUMBER SECTION */
+
+    .numbers-section { 
+        background-color: aquamarine;
+        display: none;
+    }
+
+    /* TALENT SECTION */
+
+    .looking-talents {
+        width: auto;
+    }
+
+    .position-design {
+        display: none;
+        height: 0;
+    }
+
+
+    /* REVIEW SECTION */
+
+    .reviews-section {
+        display: none;
+    }
+
+
+    /* FOOTER */
+
+    .footer {
+        
+    }
+
+
+}

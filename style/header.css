@@ -13,6 +13,13 @@
     justify-content: space-between;
     width: 80%;
     height: 50%;
+    gap: 4rem;
+}
+
+.extra-box {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
 }
 
 
@@ -37,7 +44,8 @@
 }
 
 .lista-caixa {
-    margin-right: 30em;
+    display: flex;
+    justify-content: flex-start ;
 }
 
 .lista {
